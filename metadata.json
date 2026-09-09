@@ -1,0 +1,7 @@
+{
+  "name": "SAHAKARSETU AI",
+  "description": "Your Multilingual Gateway to Cooperative Governance & Rural Services. AI-powered multilingual assistance for cooperative governance, PACS, agricultural schemes and rural citizens (Smart India Hackathon 2026).",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
